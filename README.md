@@ -1,2 +1,2 @@
-# Listas <ol> e <ul>
+# Listas ordenadas
 Esse foi um exercicio onde eu aprendi a fazer o básico de html...
